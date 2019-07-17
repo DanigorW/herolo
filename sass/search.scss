@@ -1,0 +1,23 @@
+.search-input-div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 3rem;
+
+  .search-div {
+    position: relative;
+  }
+
+  .search-icon {
+    position: absolute;
+    top: 13px;
+    left: 10px;
+  }
+  .search {
+    padding: 0.7rem 2rem;
+    outline: none;
+    background: lightblue;
+    border-radius: 5px;
+    border: 1px solid rgb(42, 175, 219);
+  }
+}

@@ -1,0 +1,21 @@
+@media (max-width: 1000px) {
+  .main-section {
+    height: auto !important;
+  }
+
+  .app-cards {
+    height: auto !important;
+
+    .card {
+      margin: 1rem 0;
+    }
+  }
+
+  .search-input-div {
+    justify-content: center !important;
+  }
+
+  .typing {
+    display: none;
+  }
+}

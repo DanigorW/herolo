@@ -1,0 +1,15 @@
+.alert {
+  display: none;
+  text-align: center;
+  font-size: 1.3rem;
+  color: $white;
+  text-transform: uppercase;
+}
+
+.show {
+  display: block;
+}
+
+.displayNone {
+  display: none;
+}
